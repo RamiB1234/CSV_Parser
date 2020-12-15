@@ -4,8 +4,8 @@
 A web API app that is built with ASP.NET Core 2.1 MVC that has a HTTP `POST` endpoint to receive a csv file, process it and returns the result in JSON format.
 
 ## Features
-- Provides an HTTP end-point (GET) which the front-end will consume to provide file
-- Parse the content of the CSV file and model it to a list of an object `Product.cs`
+- Provides an HTTP end-point (POST) which the front-end will consume to provide file
+- Parse the content of the CSV file and model it to a list of an object of type `Product.cs`
 - Evalute the list and return the top product name and rating in JSON format
 
 ## Tech Details
