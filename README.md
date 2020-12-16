@@ -10,7 +10,7 @@ A web API app that is built with ASP.NET Core 2.1 MVC that has a HTTP `POST` end
 
 ## Tech Details
 - Project is written in `ASP.NET Core 2.1 MVC` framework. Where I applied `MVC Pattern`. There is no view component since it's an API project
-- I implemented unit testing to test the Evaluate method
+- I implemented unit testing to test the [Evaluate](https://github.com/RamiB1234/CSV_Parser/blob/master/CSV_Parser/Infrastructure/ProductEvaluator.cs) method
 
 ## Installation/How to use
 - Clone the repository
