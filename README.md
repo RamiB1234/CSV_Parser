@@ -5,7 +5,7 @@ A web API app that is built with ASP.NET Core 2.1 MVC that has a HTTP `POST` end
 
 ## Features
 - Provides an HTTP end-point (POST) which the front-end will consume to provide file
-- Parse the content of the CSV file and model it to a list of an object of type `Product.cs`
+- Parse the content of the CSV file and model it to a list of an object of type [Product.cs](https://github.com/RamiB1234/CSV_Parser/blob/master/CSV_Parser/Models/Entities/Product.cs)
 - Evalute the list and return the top product name and rating in JSON format
 
 ## Tech Details
